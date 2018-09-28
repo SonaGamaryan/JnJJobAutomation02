@@ -2,7 +2,7 @@ exports.config = {
   //  seleniumAddress: 'http://localhost:4444/wd/hub',
 
     baseURL: 'https://jobs.jnj.com/',
-    loginEmailValue: 'sona_gamaryan',
+    loginEmailValue: '<email>',
     loginPasswordValue: 'Pass123!',
     getPageTimeout: 35000,
     allScriptsTimeout: 50000,
